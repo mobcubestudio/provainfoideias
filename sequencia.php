@@ -30,7 +30,7 @@ return $res;
 
 }
 
-$a = [1,1];
+$a = [1,2,7,4,3];
 print_r($a);
 echo Sequencia($a);
 
